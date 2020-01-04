@@ -9,6 +9,7 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>create_group</b> &ltgroup_id&gt</li>
 <li>Join Group:<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>join_group</b> &ltgroup_id&gt</li>
+  
 <li>Leave Group:<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>leave_group</b> &ltgroup_id&gt</li>
 <li>List pending join requests:<br>
